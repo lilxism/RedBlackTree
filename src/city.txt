@@ -1,0 +1,100 @@
+Holtsville, NY
+Chicopee, MA
+Amherst, MA
+Hatfield, MA
+Shelburne Falls, MA
+New Bedford, MA
+Pawtucket, RI
+Cumberland, RI
+Warwick, RI
+Providence, RI
+Amherst, NH
+Dover, NH
+North Conway, NH
+Rochester, NH
+Somersworth, NH
+Biddeford, ME
+Randolph, ME
+Vienna, ME
+Carmel, ME
+Greenville, ME
+Kingman, ME
+Milo, ME
+Old Town, ME
+China, ME
+Farmington, ME
+Plymouth, ME
+Woodstock, VT
+Forest Dale, VT
+New Britain, CT
+West Suffield, CT
+Hartford, CT
+New London, CT
+Larchmont, NY
+Brooklyn, NY
+Skaneateles, NY
+Rome, NY
+Elmira, NY
+Lawrence, PA
+New Castle, PA
+Marienville, PA
+Erie, PA
+Entriken, PA
+Saxton, PA
+Austin, PA
+New Millport, PA
+Morris, PA
+Camp Hill, PA
+Gettysburg, PA
+Williamsport, PA
+Easton, PA
+Wyalusing, PA
+Boyertown, PA
+Wilmington, DE
+Washington, DC
+Rockville, MD
+Hagerstown, MD
+Springfield, VA
+Alexandria, VA
+Amonate, VA
+Burlington, NC
+Broadway, NC
+Raleigh, NC
+Hobgood, NC
+Sharpsburg, NC
+Hertford, NC
+Iron Station, NC
+Charlotte, NC
+Wilmington, NC
+Sunny Side, GA
+East Ellijay, GA
+Branford, FL
+Daytona Beach, FL
+Gainesville, FL
+Ellsworth, MI
+Hampton, IA
+Cumberland, IA
+Elkader, IA
+Pilot Grove, IA
+Amberg, WI
+Green Bay, WI
+Minneapolis, MN
+Minnesota City, MN
+Rushmore, MN
+Campbell, MN
+Carpenter, SD
+Winner, SD
+Cayuga, ND
+Mayville, ND
+Lodi, MO
+Kansas City, MO
+Minneola, KS
+Madison, NE
+Hammond, LA
+Baton Rouge, LA
+Fortuna, CA
+Neotsu, OR
+Powers, OR
+Stanwood, WA
+Hoodsport, WA
+Richland, WA
